@@ -8,6 +8,7 @@
         "@angular/core": "~10.0.6",
         "@angular/platform-browser": "~10.0.6",
         "@angular/platform-browser-dynamic": "~10.0.6",
+        "@angular/router": "^10.0.14",
         "@ngx-pwa/local-storage": "^10.0.1",
         "@openopus/angular-pane-manager": "=1.0.2",
         "rxjs": "~6.6.2",
